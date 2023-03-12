@@ -13,7 +13,7 @@ Bacterial genomes from patients that have multiple bacterial isolates sequenced 
 ## Software 
 
 * Python3
-* KEGG Mapper-Color![https://www.genome.jp/kegg/mapper/color.html]
+* [KEGG Mapper-Color](https://www.genome.jp/kegg/mapper/color.html)
 
 
 ## Genomes annotated
