@@ -63,7 +63,7 @@ Bacterial genomes from patients that have multiple bacterial isolates sequenced 
 
 Each annotation `.features.txt` file with `_results` attachment. Results file contains enzyme codes and color. Copy and paste contents of file into KEGG Mapper-Color to see resulting metabolic maps. Below is an example.
 
-
+![image](
 
 
 
