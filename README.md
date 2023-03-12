@@ -45,7 +45,23 @@ Bacterial genomes from patients that have multiple bacterial isolates sequenced 
 | 535           | RUTISD25      | Aerococcus sanguinicola |
 | 536           | RUTISD25      | Escherichia coli |
 
+## Run Script
 
+<h5> Clone Repository: </h5> 
+
+`https://github.com/zgb963/kegg_pathway_prediction.git`
+
+<h5> Move Into Project Directory: </h5>
+
+`cd kegg_pathway_prediction/`
+
+<h5> Run script: </h5>
+
+`python3 metabolicmaps.py`
+
+## Output
+
+Each annotation `.features.txt` file with `_results` attachment. Results file contains enzyme codes and color. Copy and paste contents of file into KEGG Mapper-Color to see resulting metabolic maps. Below is an example.
 
 
 
