@@ -2,7 +2,7 @@
 
 ## Background
 
-Microbial communities of bacteria form complex interactions in nature. However, our understanding of these communities is limited to those that can be cultured in the lab. Enhanced culture methods have enabled the isolation of numerous fastidious species from urinary tract, definitively proving that the urinary tract of asymptomatic individuals is not sterile. In working with these isolates, our group observed several instances in which a “purified” isolate harbors more than one species. We refered to these additional members as bacterial hitchhikers, a term previously used to describe similar occurrences in soil communities. I hypothesized that under a given culture condition, these bacterial hitchhikers would proliferate such that they could be isolated. Here, I computationally predicted metabolic pathways from bacterial genomes of a given patient's urine sample.
+Microbial communities of bacteria form complex interactions in nature. However, our understanding of these communities that reside in humans and other animals is limited to those that can be cultured in the lab. In comparison to other microbiomes such as ones in soil or in the human gut, the human urinary tract (UT) harbors a lower biomass. Thus, this decreased diversity of the UT serves as an ideal model to delve into its interconnected nature, which has yet to be fully uncovered. This microbiome, which was previously thought to be sterile, hosts a diverse assortment of bacteria and other microbes that make up what is known as the urobiome. Enhanced culture methods have enabled the isolation of numerous fastidious species from the UT, definitively proving that the urinary tract of asymptomatic individuals is not sterile. To examine urobiome communities and their potential interactions metabolically, I computationally predicted metabolic pathways from bacterial genomes of a given patient's urine sample to determine if specific bacteria form dependent relationships in the urobiome for metabolic benefits.
 
 
 ## Overview
@@ -14,6 +14,11 @@ Bacterial genomes from patients that have multiple bacterial isolates sequenced 
 
 * Python3
 * KEGG Mapper
+
+
+## Genomes annotated
+
+
 
 | First Header  | Second Header |
 | ------------- | ------------- |
