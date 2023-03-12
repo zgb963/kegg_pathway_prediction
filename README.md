@@ -20,7 +20,57 @@ Bacterial genomes from patients that have multiple bacterial isolates sequenced 
 
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Sample ID     | Patient ID    | Species      |
+| ------------- | ------------- | ------------ | 
+| Content Cell  | RUTISD6       | Staphylococcus epidermidis |
+| Content Cell  | RUTISD6       | Klebsiella pneumoniae |
+| Content Cell  | RUTISD6       | Klebsiella pneumoniae |
+| Content Cell  | RUTISD6       | Lactobacillus gasseri |
+| Content Cell  | RUTISD6       | Lactobacillus delbrueckii |
+| Content Cell  | RUTISD6       | Enterococcus faecalis |
+| Content Cell  | RUTISD9       | Klebsiella pneumoniae |
+| Content Cell  | RUTISD9       | Enterococcus faecalis |
+| Content Cell  | RUTISD9       | Staphylococcus epidermidis |  
+| Content Cell  | RUTISD9       | Streptococcus agalactiae |
+| Content Cell  | RUTISD9       | Klebsiella pneumoniae |
+| Content Cell  | RUTISD9       | Lactobacillus jensenii | 
+| Content Cell  | RUTISD018     | Escherichia coli |
+| Content Cell  | RUTISD018     | Enterococcus faecalis |
+| Content Cell  | RUTISD018     | Lactobacillus jensenii |
+| Content Cell  | RUTISD018     | Lactobacillus gasseri |
+| Content Cell  | RUTISD25      | Escherichia coli |
+| Content Cell  | RUTISD25      | Streptococcus anginosus | 
+| Content Cell  | RUTISD25      | Actinotignum sanguinis |
+| Content Cell  | RUTISD25      | Aerococcus urinae |
+| Content Cell  | RUTISD25      | Aerococcus sanguinicola |
+| Content Cell  | RUTISD25      | Escherichia coli |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
