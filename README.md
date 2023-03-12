@@ -21,7 +21,7 @@ Bacterial genomes from patients that have multiple bacterial isolates sequenced 
 
 
 | Sample ID     | Patient ID    | Species      |
-| ------------- | ------------- | ------------ | 
+| ------------- | ------------- | :------------ | 
 | 512           | RUTISD6       | Staphylococcus epidermidis |
 | 610           | RUTISD6       | Klebsiella pneumoniae |
 | 946           | RUTISD6       | Klebsiella pneumoniae |
