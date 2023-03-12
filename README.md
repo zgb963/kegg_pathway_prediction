@@ -22,28 +22,28 @@ Bacterial genomes from patients that have multiple bacterial isolates sequenced 
 
 | Sample ID     | Patient ID    | Species      |
 | ------------- | ------------- | ------------ | 
-| Content Cell  | RUTISD6       | Staphylococcus epidermidis |
-| Content Cell  | RUTISD6       | Klebsiella pneumoniae |
-| Content Cell  | RUTISD6       | Klebsiella pneumoniae |
-| Content Cell  | RUTISD6       | Lactobacillus gasseri |
-| Content Cell  | RUTISD6       | Lactobacillus delbrueckii |
-| Content Cell  | RUTISD6       | Enterococcus faecalis |
-| Content Cell  | RUTISD9       | Klebsiella pneumoniae |
-| Content Cell  | RUTISD9       | Enterococcus faecalis |
-| Content Cell  | RUTISD9       | Staphylococcus epidermidis |  
-| Content Cell  | RUTISD9       | Streptococcus agalactiae |
-| Content Cell  | RUTISD9       | Klebsiella pneumoniae |
-| Content Cell  | RUTISD9       | Lactobacillus jensenii | 
-| Content Cell  | RUTISD018     | Escherichia coli |
-| Content Cell  | RUTISD018     | Enterococcus faecalis |
-| Content Cell  | RUTISD018     | Lactobacillus jensenii |
-| Content Cell  | RUTISD018     | Lactobacillus gasseri |
-| Content Cell  | RUTISD25      | Escherichia coli |
-| Content Cell  | RUTISD25      | Streptococcus anginosus | 
-| Content Cell  | RUTISD25      | Actinotignum sanguinis |
-| Content Cell  | RUTISD25      | Aerococcus urinae |
-| Content Cell  | RUTISD25      | Aerococcus sanguinicola |
-| Content Cell  | RUTISD25      | Escherichia coli |
+| 512           | RUTISD6       | Staphylococcus epidermidis |
+| 610           | RUTISD6       | Klebsiella pneumoniae |
+| 946           | RUTISD6       | Klebsiella pneumoniae |
+| 612           | RUTISD6       | Lactobacillus gasseri |
+| 615           | RUTISD6       | Lactobacillus delbrueckii |
+| 617           | RUTISD6       | Enterococcus faecalis |
+| 441           | RUTISD9       | Klebsiella pneumoniae |
+| 442           | RUTISD9       | Enterococcus faecalis |
+| 443           | RUTISD9       | Staphylococcus epidermidis |  
+| 444           | RUTISD9       | Streptococcus agalactiae |
+| 445           | RUTISD9       | Klebsiella pneumoniae |
+| 446           | RUTISD9       | Lactobacillus jensenii | 
+| 479           | RUTISD018     | Escherichia coli |
+| 102           | RUTISD018     | Enterococcus faecalis |
+| 482           | RUTISD018     | Lactobacillus jensenii |
+| 483           | RUTISD018     | Lactobacillus gasseri |
+| 530           | RUTISD25      | Escherichia coli |
+| 531           | RUTISD25      | Streptococcus anginosus | 
+| 532           | RUTISD25      | Actinotignum sanguinis |
+| 533           | RUTISD25      | Aerococcus urinae |
+| 535           | RUTISD25      | Aerococcus sanguinicola |
+| 536           | RUTISD25      | Escherichia coli |
 
 
 
