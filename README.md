@@ -49,7 +49,7 @@ Bacterial genomes from patients that have multiple bacterial isolates sequenced 
 
 <h5> Clone Repository: </h5> 
 
-`https://github.com/Genevieve-Baddoo/scRNA-Seq-Variation-Pipeline.git`
+`https://github.com/zgb963/kegg_pathway_prediction.git`
 
 <h5> Move Into Project Directory: </h5>
 
